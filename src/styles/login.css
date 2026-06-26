@@ -1,0 +1,31 @@
+.login-page{
+    height:100%;
+    padding:42px 22px;
+    display:flex;
+    flex-direction:column;
+    justify-content:top;
+}
+
+.login-card{
+    width:100%;
+    margin-bottom:55px;
+}
+
+.login-card h1{
+    font-size:30px;
+    font-weight:700;
+    line-height:1.15;
+    color:#222;
+    margin-bottom:28px;
+}
+
+.login-card p{
+    font-size:17px;
+    color:#666;
+    line-height:28px;
+    margin-bottom:35px;
+}
+
+.login-card .btn{
+    margin-top:25px;
+}
